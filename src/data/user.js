@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Personal Website",
+		name: "Chiraphat Boonnag",
+		email: "cb10.inbox@gmail.com",
 		logo: "../logo.png",
 	},
 
@@ -44,27 +44,27 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "MorKooKids",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Maternal and Child Health",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://morkookids.com/",
 		},
 
 		{
-			title: "Project 3",
+			title: "PresScribe",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"First Thai Medical Scribe",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://looloohealth.com/",
 		},
 
 		{
-			title: "Project 4",
+			title: "9 Yang Thailand",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Thai first AI Chatbot for child and maternal health",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
