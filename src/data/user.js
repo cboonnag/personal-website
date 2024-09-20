@@ -7,12 +7,12 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		twitter: "https://twitter.com/cboonnag",
+		github: "https://github.com/cboonnag",
+		linkedin: "https://linkedin.com/cboonnag",
 		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		// stackoverflow: "https://stackoverflow.com/",
+		// facebook: "https://facebook.com/",
 	},
 
 	homepage: {
@@ -22,9 +22,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Chiraphat Boonnag. A Medical AI Specialist",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Chiraphat’s research interests include mental health, medical education, health informatics, wearable devices, and clinical data science..",
 	},
 
 	articles: {

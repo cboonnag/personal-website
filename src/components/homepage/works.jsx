@@ -15,28 +15,54 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./facebook.png"
-								alt="facebook"
+								src="./medcmu.png"
+								alt="MedCMU"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
+							<div className="work-title">Faculty of Medicine, Chiang Mai University</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Medical Doctor
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">2020 - 2023</div>
 						</div>
 
 						<div className="work">
 							<img
-								src="./twitter.png"
-								alt="twitter"
+								src="./vistec.png"
+								alt="vistec"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">IST, VISTEC</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Research Assistant (PT)
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">2020 - 2023</div>
+						</div>
+
+						<div className="work">
+							<img
+								src="./looloo.png"
+								alt="Looloo Technology"
+								className="work-image"
+							/>
+							<div className="work-title">Looloo Technology</div>
+							<div className="work-subtitle">
+								Medical Consultant
+							</div>
+							<div className="work-duration">2023 - Present</div>
+						</div>
+
+						<div className="work">
+							<img
+								src="./ptn.png"
+								alt="Phyathai Nawamin"
+								className="work-image"
+							/>
+							<div className="work-title">Phyathai Nawamin Hospital</div>
+							<div className="work-subtitle">
+								Medical Doctor (PT)
+							</div>
+							<div className="work-duration">2023 - Present</div>
 						</div>
 					</div>
 				}

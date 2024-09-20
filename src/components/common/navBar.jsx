@@ -46,7 +46,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/articles">Articles</Link>
+								<Link to="https://blog.cboonnag.com">blog</Link>
 							</li>
 							<li
 								className={
