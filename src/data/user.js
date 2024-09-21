@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Medical AI Consultant & HealthTech Innovator",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a former full-time medical doctor who transitioned into the HealthTech industry, where I currently lead a multidisciplinary team to create innovative solutions for healthcare. My focus lies in AI-powered medical technologies, including telemedicine for child and maternal care and AI medical scribe systems designed to enhance the efficiency of healthcare providers. With my strong background in clinical practice and deep expertise in AI integration, I’m dedicated to transforming how healthcare is delivered—making it more accessible, efficient, and patient-focused.",
 	},
 
 	about: {
@@ -47,7 +47,7 @@ const INFO = {
 			title: "MorKooKids",
 			description:
 				"Maternal and Child Health",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			logo: "./mkk-logo.png",
 			linkText: "View Project",
 			link: "https://morkookids.com/",
 		},

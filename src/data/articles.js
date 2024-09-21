@@ -1,9 +1,10 @@
 import React from "react";
+import { ArticleContent } from './articles/article1'
 
 function article_1() {
 	return {
 		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		title: "AI",
 		description:
 			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
 		keywords: [
@@ -25,14 +26,7 @@ function article_1() {
 				`,
 		body: (
 			<React.Fragment>
-				<div className="article-content">
-					<div className="paragraph">Content of article 1</div>
-					<img
-						src="https://picsum.photos/200/300"
-						alt="random"
-						className="randImage"
-					/>
-				</div>
+				<ArticleContent />
 			</React.Fragment>
 		),
 	};

@@ -46,7 +46,16 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="https://blog.cboonnag.com">blog</Link>
+								<Link to="https://blog.cboonnag.com">Blog</Link>
+							</li>
+							<li
+								className={
+									active === "articles"
+										? "nav-item active"
+										: "nav-item"
+								}
+							>
+								<Link to="https://scholar.google.com/citations?user=fZ9trBIAAAAJ&hl=en">Publications</Link>
 							</li>
 							<li
 								className={
